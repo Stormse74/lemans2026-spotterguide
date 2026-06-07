@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Le Mans 2026 Spotterguide</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <p class="kicker">24 Heures du Mans · 2026</p>
+  <h1>Le Mans 2026 Spotterguide</h1>
+  <div class="topLinks">
+    <button id="classesBtn" type="button" class="topLinkBtn">Klasser</button>
+    <a class="topLinkBtn" href="https://www.motorsport.com/wec/news/the-2026-le-mans-24-hours-entry-list-in-full/10798927/" target="_blank" rel="noopener">Entry list</a>
+    <a class="topLinkBtn" href="https://lemansultimate.com/cars/" target="_blank" rel="noopener">Le Mans Ultimate</a>
+    <a class="topLinkBtn" href="https://www.24h-lemans.com/en/lemans/classes" target="_blank" rel="noopener">Officiel klasseguide</a>
+  </div>
+</header>
+
+<nav class="toolbar">
+  <input id="search" placeholder="Søg startnummer, bil, team eller kører…">
+  <button data-filter="Alle" class="active">Alle</button>
+  <button data-filter="Favoritter">⭐ Favoritter</button>
+  <button data-filter="Hypercar">Hypercar</button>
+  <button data-filter="LMP2">LMP2</button>
+  <button data-filter="LMGT3">LMGT3</button>
+  <button data-filter="Danskere">🇩🇰 Danskere</button>
+</nav>
+
+<main id="grid" class="grid"></main>
+
+<div id="modal" class="modal">
+  <div class="modalInner">
+    <button id="closeModal" class="close">×</button>
+    <div id="modalContent"></div>
+  </div>
+</div>
+
+<div id="classesModal" class="modal">
+  <div class="modalInner infoModal">
+    <button id="closeClassesModal" class="close">×</button>
+    <div class="modalText">
+      <h2>Klasserne kort</h2>
+      <div class="classInfoGrid">
+        <section>
+          <h3>Hypercar</h3>
+          <p>Topklassen. Det er bilerne, der kæmper om den samlede sejr.</p>
+        </section>
+        <section>
+          <h3>LMP2</h3>
+          <p>Prototypeklasse med ensartet teknisk grundpakke. Ofte meget tæt racing.</p>
+        </section>
+        <section>
+          <h3>LMGT3</h3>
+          <p>GT-biler baseret på mærker man genkender: Porsche, Ferrari, BMW, Corvette, McLaren m.fl.</p>
+        </section>
+      </div>
+      <div class="actionRow">
+        <a class="camBtn camYes" href="https://www.24h-lemans.com/en/lemans/classes" target="_blank" rel="noopener">Læs officiel klasseguide</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <a href="https://www.24h-lemans.com/en/lemans/classes" target="_blank" rel="noopener">Klasser</a>
+  <span>·</span>
+  <a href="https://www.motorsport.com/wec/news/the-2026-le-mans-24-hours-entry-list-in-full/10798927/" target="_blank" rel="noopener">Entry list</a>
+  <span>·</span>
+  <a href="https://lemansultimate.com/cars/" target="_blank" rel="noopener">Le Mans Ultimate</a>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
