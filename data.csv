@@ -1,12 +1,12 @@
 ﻿Startnr;Klasse;Bil;Team;Kører 1;Kører 2;Kører 3;Dansk;Billede1;Billede2;Billede3;Billede4;Onboard;Note
 007;Hypercar;Aston Martin Valkyrie;Aston Martin THOR Team;Harry Tincknell;Tom Gamble;Ross Gunn;Nej;007-Thor-Team-Aston-Martin-Valkyrie-FIA-WEC-2026-Le-Mans-8.jpg;007.jpg;;;;
 009;Hypercar;Aston Martin Valkyrie;Aston Martin THOR Team;Marco Sørensen 🇩🇰;Alex Riberas;Roman De Angelis;Ja;009.jpg;009_01.jpg;;;;
-7;Hypercar;Toyota GR010 Hybrid;Toyota Racing;Mike Conway;Kamui Kobayashi;Nyck de Vries;Nej;7-Toyota-GR010-Hybrid-FIA-WEC-2026-Le-Mans-3-690x460.jpg;7.jpg;;;;
-8;Hypercar;Toyota GR010 Hybrid;Toyota Racing;Sébastien Buemi;Brendon Hartley;Ryō Hirakawa;Nej;8.jpg;;;;;
+7;Hypercar;Toyota GR010 Hybrid;Toyota Racing;Mike Conway;Kamui Kobayashi;Nyck de Vries;Nej;7-Toyota-GR010-Hybrid-FIA-WEC-2026-Le-Mans-3-690x460.jpg;7.jpg;;;https://www.youtube.com/live/-HazAZSkfiU?si=4s0X7u6spH-_QgpB;
+8;Hypercar;Toyota GR010 Hybrid;Toyota Racing;Sébastien Buemi;Brendon Hartley;Ryō Hirakawa;Nej;8.jpg;;;;https://www.youtube.com/live/wOtXifrPkaI?si=senJnYUfjbfG-0qL;
 12;Hypercar;Cadillac V-Series.R;Cadillac Hertz Team Jota;Alex Lynn;Will Stevens;Norman Nato;Nej;12.jpg;;;;;
 15;Hypercar;BMW M Hybrid V8;BMW M Team WRT;Kevin Magnussen 🇩🇰;Raffaele Marciello;Dries Vanthoor;Ja;015_01.jpg;15.jpg;;;https://www.youtube.com/watch?v=JG7XzzLjzVk;
-17;Hypercar;Genesis GMR-001-Hypercar;Genesis Magma Racing;André Lotterer;Luis Felipe Derani;Mathys Jaubert;Nej;17-Genesis-Magma-Racing-GMR-001-FIA-WEC-2026-Le-Mans-7-690x460.jpg;17a.webp;17a.jpg;17b.jpg;;
-19;Hypercar;Genesis GMR-001-Hypercar;Genesis Magma Racing;Mathieu Jaminet;Paul-Loup Chatin;Daniel Juncadella;Nej;19.jpg;;;;;
+17;Hypercar;Genesis GMR-001-Hypercar;Genesis Magma Racing;André Lotterer;Luis Felipe Derani;Mathys Jaubert;Nej;17-Genesis-Magma-Racing-GMR-001-FIA-WEC-2026-Le-Mans-7-690x460.jpg;17a.webp;17a.jpg;17b.jpg;https://www.youtube.com/live/WAAxrfcYk2M?si=wHMNNCVT2ix-ecz5;
+19;Hypercar;Genesis GMR-001-Hypercar;Genesis Magma Racing;Mathieu Jaminet;Paul-Loup Chatin;Daniel Juncadella;Nej;19.jpg;;;;https://www.youtube.com/live/LHVMbRFII08?si=aomGmef2J3IcJqS9;
 20;Hypercar;BMW M Hybrid V8;BMW M Team WRT;Robin Frijns;René Rast;Sheldon van der Linde;Nej;20-WRT-BMW-M-Hybrid-V8-FIA-WEC-2026-Le-Mans-8-690x460.jpg;BMW 20.jpg;20.jpg;20b.jpg;https://www.youtube.com/live/6zkFuMLpiRc?si=EN5JwAKYRC_BZCDQ;
 35;Hypercar;Alpine A424;Alpine Endurance Team;António Félix da Costa;Charles Milesi;Ferdinand Habsburg;Nej;35-Alpine-A424-FIA-WEC-2026-Le-Mans-2-690x460.jpg;35.webp;;;;
 36;Hypercar;Alpine A424;Alpine Endurance Team;Frédéric Makowiecki;Jules Gounon;Victor Martins;Nej;36.png;;;;;
@@ -22,7 +22,7 @@
 9;LMP2;Oreca 07 - Gibson;Proton Competition;Jonas Ried;Lenny Ried;Harry King;Nej;9-Proton-Competition-Oreca-07-LMP2-FIA-WEC-2026-Le-Mans-1-690x460.jpg;9.jpeg;;;;
 14;LMP2;Oreca 07 - Gibson;TDS Racing;Tobias Lutke;Mathias Beche;Kevin Estre;Nej;14-TDS-Racing-Oreca-07-LMP2-FIA-WEC-2026-Le-Mans-5-690x460.jpg;14.jpg;;;;
 22;LMP2;Oreca 07 - Gibson;United Autosports;Mikkel Jensen 🇩🇰;Rasmus Lindh;Grégoire Saucy;Ja;22-United-Autosports-Oreca-07-LMP2-FIA-WEC-2026-Le-Mans-4-690x460.jpg;022_01.jpg;;;;
-24;LMP2;Oreca 07 - Gibson;Nielsen Racing;David Heinemeier Hansson 🇩🇰;Edward Pearson;Jack Doohan;Ja;24-Nielsen-Racing-Oreca-07-LMP2-FIA-WEC-2026-Le-Mans-2-690x460.jpg;024_01.jpg;;;;
+24;LMP2;Oreca 07 - Gibson;Nielsen Racing;David Heinemeier Hansson 🇩🇰;Edward Pearson;Jack Doohan;Ja;24-Nielsen-Racing-Oreca-07-LMP2-FIA-WEC-2026-Le-Mans-2-690x460.jpg;024_01.jpg;;;https://www.youtube.com/live/wOtXifrPkaI?si=zu-FA94EEkEo7GN2;
 25;LMP2;Oreca 07 - Gibson;Algarve Pro Racing;Michael Jensen 🇩🇰;Enzo Trulli;Jake Hughes;Ja;25-APR-Oreca-07-LMP2-FIA-WEC-2026-Le-Mans-2-690x460.jpg;025_01.jpg;;;;
 26;LMP2;Oreca 07 - Gibson;Vector Sport;Ryan Cullen;Vladislav Lomko;Pietro Fittipaldi;Nej;26-Vector-Sport-Oreca-07-LMP2-FIA-WEC-2026-Le-Mans-2-690x460.jpg;26.jpg;;;;
 28;LMP2;Oreca 07 - Gibson;IDEC Sport;Paul Lafargue;Valerio Rinicella;Job van Uitert;Nej;28-IDEC-Sport-Oreca-07-LMP2-FIA-WEC-2026-Le-Mans-4-690x460.jpg;28.jpg;;;;
@@ -58,6 +58,6 @@
 79;LMGT3;Mercedes-AMG LMGT3;Iron Lynx;Johannes Zelger;Matteo Cressoni;Lin Hodenius;Nej;79.jpg;;;;;
 87;LMGT3;Lexus RC F LMGT3;Akkodis ASP Team;Petru Umbrărescu;Clemens Schmid;José María López;Nej;87.jpg;;;;;
 88;LMGT3;Ford Mustang LMGT3;Proton Competition;Stefano Gattuso;Giammarco Levorato;Logan Sargeant;Nej;88-Proton-Competition-Ford-Mustang-LMGT3-FIA-WEC-2026-Le-Mans-3-690x460.jpg;88.webp;;;;
-91;LMGT3;Porsche 911 GT3 R LMGT3;Manthey DK Engineering;James Cottingham;Timur Boguslavskiy;Ayhancan Güven;Nej;91.webp;;;;;
-92;LMGT3;Porsche 911 GT3 R LMGT3;The Bend Manthey;Yasser Shahin;Riccardo Pera;Richard Lietz;Nej;92.jpg;;;;;
+91;LMGT3;Porsche 911 GT3 R LMGT3;Manthey DK Engineering;James Cottingham;Timur Boguslavskiy;Ayhancan Güven;Nej;91.webp;;;;https://www.youtube.com/live/_QtxYprXq2Q?si=adGJI9oGhaCjJUus;
+92;LMGT3;Porsche 911 GT3 R LMGT3;The Bend Manthey;Yasser Shahin;Riccardo Pera;Richard Lietz;Nej;92.jpg;;;;https://www.youtube.com/live/GjuJPmCgzRY?si=jOmOsC5QFVpw05MO;
 150;LMGT3;Ferrari 296 LMGT3 Evo;Richard Mille AF Corse;Custodio Toledo;Lilou Wadoux;Riccardo Agostini;Nej;150.jpeg;;;;;
